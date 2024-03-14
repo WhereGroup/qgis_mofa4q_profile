@@ -5,8 +5,6 @@ previewImages/*
 *.pyc
 cache
 mofa4q*.qgs~
-luftbilder_fake.gpkg *
-luftbilder_fake.gpkg.*
 geopackages/*.*
 geopackages/public/*.*
 geopackages/public/backup/
