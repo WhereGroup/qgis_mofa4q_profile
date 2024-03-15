@@ -23,13 +23,13 @@ MoFa4Q is abbreaviation of the german word "Mobile-Fachschale-QGIS" (mobile appl
     - Rotation of the print frame
     - Export as PDF or direct print to the printer
 - Add annotations/notes
-- Using a geodata sync tool to update the geodata
+- Using a geodata synctool to update the geodata
 
 ## Installation MoFa4Q
 The installation can be done with MoFa4Q-Installer (see https://github.com/WhereGroup/qgis_mofa4q_installer)
 
 ## Data structure
-* Public geopackages (and their QLR files) are imported by the Synch-tool under the folder geopackages/public
+* Public geopackages (and their QLR files) are imported by the synctool under the folder geopackages/public
 The sequence_qlr.yml file is also imported
 * Private geopackages are imported by the user (via the application) under geopackages/private
 * The geopackage from the search remains as it was before (imported under geopackages/search)
@@ -37,6 +37,10 @@ The sequence_qlr.yml file is also imported
 The background layer is referenced directly in the QGIS project (in the file mofa4q.qgs).
 
 ![alt text](init/data_structure.png)
+
+### Synctool
+MoFa4Q used all offline data, even for the background map. A Synctool has been developed to refresh and update the data. When the PC is connected to a network it is possible to check if new data is available and download it. 
+
 
 ### Local customization by the user
 The user settings are saved in a number of files so that the customized configuration is
