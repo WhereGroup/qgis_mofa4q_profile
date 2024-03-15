@@ -20,15 +20,15 @@ class Search(ABC):
     Reads a geopackage and searchs in the table attribute table the
     matched text
     """
-    STR_QUERY = "SELECT adresse FROM adresse WHERE adresse LIKE ?"
-    STR_QUERY_GEOM = "SELECT X(geom), Y(geom), SRID(geom) FROM adresse WHERE adresse = ?"
+    STR_QUERY = "SELECT address FROM addresses WHERE address LIKE ?"
+    STR_QUERY_GEOM = "SELECT X(geom), Y(geom), SRID(geom) FROM addresses WHERE address = ?"
     #STR_QUERY_GEOM = "SELECT geom, X(geom), Y(geom) FROM addresses"
     TABLE_EPSG = "EPSG:4326"
     MAX_VISIBLE_ITEMS = 15
     COLOR_VERTEX = QColor(153, 0, 204)
     SIZE_VERTEX = 24
     PEN_VERTEX = 4
-    ZOOM_SCALE = 2500.0
+    ZOOM_SCALE = 160000.0
     marker = None
     gPntXY = None
 

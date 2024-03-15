@@ -58,8 +58,8 @@ class MoFa4QPlugin:
     """Main Class of the plugin moFa4Q_plugin"""
 
     LOCAL_FOLDER_GEOPACKAGE = "../../../geopackages"
-    ADDRESS_GEOPACKAGE = "/search/adresse.gpkg"
-    GEOSEARCH_GEOPACKAGE = "/search/objektsuche.gpkg"
+    ADDRESS_GEOPACKAGE = "/search/addresses.gpkg"
+    GEOSEARCH_GEOPACKAGE = "/search/search_objects.gpkg"
     DEFAULT_PROJECT = "mofa4q.qgz"
     BUTTON_SIZE = 100
     PROJECT_CRS = "EPSG:25832"
