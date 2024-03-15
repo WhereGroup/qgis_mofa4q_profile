@@ -947,9 +947,10 @@ class MoFa4QPlugin:
             self.gpkgPopup.setSyncToolPath(self.DEFAULT_INSTALL_PATH)
             self.gpkgPopup.show(titelName=tr('keine Geopackages im Ordner public gefunden. Starte das SyncTool!'))
         else:
-            gpkgOlder4Weeks = self._checkGpkg28DayOlder()
+            # gpkgOlder4Weeks = self._checkGpkg28DayOlder()
             corruptQlrs = self._checkQlrDim0Kb()
-            if len(gpkgOlder4Weeks) > 0 or len(corruptQlrs) > 0:
+            # if len(gpkgOlder4Weeks) > 0
+            if len(corruptQlrs) > 0:
                 self.gpkgPopup = GpkgPopup(self.iface, self.iface.mainWindow())
                 self.gpkgPopup.show(gpkgOlder4Weeks=gpkgOlder4Weeks, corruptQlrs=corruptQlrs)
 
