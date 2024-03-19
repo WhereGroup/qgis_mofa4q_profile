@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/plugins/moFa4Q_plugin" >
+        <file>icons/burger.png</file>
+        <file>icons/close.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/plus_icon.png</file>
+        <file>icons/minus_icon.png</file>
+        <file>icons/extent_icon.png</file>
+        <file>icons/gps_icon.png</file>
+        <file>icons/checkbox.png</file>
+        <file>icons/checkbox_dis.png</file>
+		<file>icons/info_icon.png</file>
+		<file>icons/line_icon.png</file>
+		<file>icons/area_icon.png</file>
+		<file>icons/print_icon.png</file>
+		<file>icons/text_bubble.png</file>
+        <file>icons/del_text_bubble.png</file>
+        <file>icons/del_geom.png</file>
+		<file>icons/line_edit.png</file>
+		<file>icons/polygon_edit.png</file>
+		<file>icons/load_indicator.gif</file>
+    </qresource>
+</RCC>
