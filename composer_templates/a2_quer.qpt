@@ -1467,7 +1467,7 @@
    <node y="0" x="0"/>
   </nodes>
  </LayoutItem>
- <LayoutMultiFrame templateUuid="{1415b40c-1b17-49cd-82c7-e0dcd0531ffe}" evaluateExpressions="true" uuid="{1415b40c-1b17-49cd-82c7-e0dcd0531ffe}" contentMode="1" html="&lt;b>Zentrale Netzauskunft &lt;/b>&lt;br/>&#xa;Kornblumenstraße 7/1&lt;br/>&#xa;88046 Friedrichshafen&lt;br/>&#xa;T 07541 505-317&lt;br/>&#xa;F 07541 505-60 317&lt;br/>&#xa;planauskunft@stadtwerk-an-see.de" maxBreakDistance="10" stylesheetEnabled="true" resizeMode="0" type="65648" stylesheet="body { margin: 0 0;font-family: Ubuntu;font-style: normal;font-weight: 400;font-size: 11.7593px;color: rgba(0,0,0,1.0000);text-align: left; }" url="" useSmartBreaks="true">
+ <LayoutMultiFrame templateUuid="{1415b40c-1b17-49cd-82c7-e0dcd0531ffe}" evaluateExpressions="true" uuid="{1415b40c-1b17-49cd-82c7-e0dcd0531ffe}" contentMode="1" html="&lt;b>WhereGroup &lt;/b>&lt;br/>info@wheregroup.com" maxBreakDistance="10" stylesheetEnabled="true" resizeMode="0" type="65648" stylesheet="body { margin: 0 0;font-family: Ubuntu;font-style: normal;font-weight: 400;font-size: 11.7593px;color: rgba(0,0,0,1.0000);text-align: left; }" url="" useSmartBreaks="true">
   <childFrame templateUuid="{b05e6ef4-a20b-42ea-9eff-5728e4f23725}" uuid="{b05e6ef4-a20b-42ea-9eff-5728e4f23725}"/>
   <LayoutObject>
    <dataDefinedProperties>

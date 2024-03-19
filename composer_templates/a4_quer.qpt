@@ -1082,7 +1082,7 @@
   </atlasClippingSettings>
   <itemClippingSettings enabled="0" clipSource="" forceLabelsInside="0" clippingType="0"/>
  </LayoutItem>
- <LayoutMultiFrame templateUuid="{6c8f202e-ab10-427c-90a7-749f477e86e1}" evaluateExpressions="true" uuid="{6c8f202e-ab10-427c-90a7-749f477e86e1}" contentMode="1" html="&lt;b>Zentrale Netzauskunft &lt;/b>&lt;br/>&#xa;Kornblumenstraße 7/1&lt;br/>&#xa;88046 Friedrichshafen&lt;br/>&#xa;T 07541 505-317&lt;br/>&#xa;F 07541 505-60 317&lt;br/>&#xa;planauskunft@stadtwerk-am-see.de" maxBreakDistance="10" stylesheetEnabled="true" resizeMode="0" type="65648" stylesheet="body { margin: 0 0;font-family: Ubuntu;font-style: normal;font-weight: 400;font-size: 11.7593px;color: rgba(0,0,0,1.0000);text-align: left; }" url="" useSmartBreaks="true">
+ <LayoutMultiFrame templateUuid="{6c8f202e-ab10-427c-90a7-749f477e86e1}" evaluateExpressions="true" uuid="{6c8f202e-ab10-427c-90a7-749f477e86e1}" contentMode="1" html="&lt;b>WhereGroup &lt;/b>&lt;br/>info@wheregroup.com&lt;br/>" maxBreakDistance="10" stylesheetEnabled="true" resizeMode="0" type="65648" stylesheet="body { margin: 0 0;font-family: Ubuntu;font-style: normal;font-weight: 400;font-size: 11.7593px;color: rgba(0,0,0,1.0000);text-align: left; }" url="" useSmartBreaks="true">
   <childFrame templateUuid="{cfe8b219-1142-4580-bfae-eaff7a5511a2}" uuid="{cfe8b219-1142-4580-bfae-eaff7a5511a2}"/>
   <LayoutObject>
    <dataDefinedProperties>
